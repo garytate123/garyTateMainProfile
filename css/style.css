@@ -1,38 +1,4 @@
-/* ---------------------- 
-Stylesheet Guide
--------------------------
 
-My Work Profile Flexbox
-Project Images
-FONTS
-GENERAL STYLES
-FORMS
-LOADING ANIMATION
-PAGE STRUCTURE
-MAIN MENU
-SIDEBAR
-SUBMENU
-FLICKR FEED
-HOMEPAGE
-HOME SOCIAL BAR
-CV TABLE
-ICON CONTAINERS
-SKILLS
-RESUME
-CONTACT
-PORTFOLIO
-TOOLTIPS
-TESTIMONIALS
-ACCORDION
-RESPONSIVE IFRAME
-BLOG
-COMMENTS
-TABS
-FLEX IMAGE
-CV BOXES
-FOOTER
-
-*/
 
 /* My Work Profile Flexbox */
 .container-1 {
@@ -1823,3 +1789,4 @@ h2.resp-accordion {
     width: 100%;
     height: 100%;
   }
+
