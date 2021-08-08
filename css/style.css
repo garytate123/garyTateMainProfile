@@ -1063,7 +1063,10 @@ form .cv-button {
 }
 /* ================= CONTACT ================== */
 
-
+.contact-form{
+  border: 2px solid black;
+  margin-top: 30px;
+}
 
 /* ================= PORTFOLIO ================== */
 .cvgrid {
